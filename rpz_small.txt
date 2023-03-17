@@ -1,13 +1,13 @@
-; Version: 202303171033
+; Version: 202303171206
 ; Description: Block. Don't break.
 ; Title: oisd small
-; Last modified: 2023-03-17T10:33:02+0000
+; Last modified: 2023-03-17T12:06:10+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                                     
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679046536 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679054403 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -152,8 +152,6 @@ $TTL 30
 *.0dsyfr2fxogj.top CNAME .
 0e1b4.asset.tradingvein.xyz CNAME .
 *.0e1b4.asset.tradingvein.xyz CNAME .
-0e607.favor.thehouseplantblog.com CNAME .
-*.0e607.favor.thehouseplantblog.com CNAME .
 0ea0e010f8.com CNAME .
 *.0ea0e010f8.com CNAME .
 0eijh8996i.com CNAME .
@@ -2988,8 +2986,6 @@ $TTL 30
 *.8djfhbgdjfg8.monster CNAME .
 8dkjfkgdfg88.monster CNAME .
 *.8dkjfkgdfg88.monster CNAME .
-8f539.favor.thehouseplantblog.com CNAME .
-*.8f539.favor.thehouseplantblog.com CNAME .
 8feichai.com CNAME .
 *.8feichai.com CNAME .
 8fvchzuz.myutilitydomain.com CNAME .
@@ -3070,8 +3066,6 @@ $TTL 30
 *.90cd7fb7ca.com CNAME .
 910weixin.com CNAME .
 *.910weixin.com CNAME .
-91374.favor.thehouseplantblog.com CNAME .
-*.91374.favor.thehouseplantblog.com CNAME .
 9191919199.com CNAME .
 *.9191919199.com CNAME .
 91cy.top CNAME .
@@ -10302,8 +10296,6 @@ ajbqxivmdl.xyz CNAME .
 *.ajbqxivmdl.xyz CNAME .
 ajch.bwc.ae CNAME .
 *.ajch.bwc.ae CNAME .
-ajcnz1.com CNAME .
-*.ajcnz1.com CNAME .
 ajdivotdelbloab24.jio.com CNAME .
 *.ajdivotdelbloab24.jio.com CNAME .
 ajdkksdnnnsfrk.com CNAME .
@@ -14442,8 +14434,6 @@ apygmljgfvxxgsf.xyz CNAME .
 *.apygmljgfvxxgsf.xyz CNAME .
 apzcudhwu.com CNAME .
 *.apzcudhwu.com CNAME .
-aq.ferisonledger.com CNAME .
-*.aq.ferisonledger.com CNAME .
 aq7ua5ma85rddeinve.com CNAME .
 *.aq7ua5ma85rddeinve.com CNAME .
 aqarna.net CNAME .
@@ -20880,8 +20870,6 @@ boralaa.com CNAME .
 *.boralaa.com CNAME .
 borary.com CNAME .
 *.borary.com CNAME .
-borasga.top CNAME .
-*.borasga.top CNAME .
 bordeaux.futurecdn.net CNAME .
 *.bordeaux.futurecdn.net CNAME .
 borderoffenseantenna.com CNAME .
@@ -22738,8 +22726,6 @@ canjarltaox.com CNAME .
 *.canjarltaox.com CNAME .
 cankaowang.com CNAME .
 *.cankaowang.com CNAME .
-canlistabbed.com CNAME .
-*.canlistabbed.com CNAME .
 cannavitamexico.com CNAME .
 *.cannavitamexico.com CNAME .
 cannonjudo.com CNAME .
@@ -26172,8 +26158,6 @@ clownfish.wrestlingiq.com CNAME .
 *.clownfish.wrestlingiq.com CNAME .
 clpgnnqd.page.link CNAME .
 *.clpgnnqd.page.link CNAME .
-clqrdxc.cn CNAME .
-*.clqrdxc.cn CNAME .
 clrpdhptoddatj49.pro CNAME .
 *.clrpdhptoddatj49.pro CNAME .
 clrstm.com CNAME .
@@ -36154,8 +36138,6 @@ eagernessstrongergreet.com CNAME .
 *.eagernessstrongergreet.com CNAME .
 eageroxhuvud.guru CNAME .
 *.eageroxhuvud.guru CNAME .
-eagle-insight.com CNAME .
-*.eagle-insight.com CNAME .
 eagle.joulescope.com CNAME .
 *.eagle.joulescope.com CNAME .
 eagle.mbcharbonneau.com CNAME .
@@ -40230,6 +40212,8 @@ fauvesez.net CNAME .
 *.fauvesez.net CNAME .
 favenhealthcare.co.uk CNAME .
 *.favenhealthcare.co.uk CNAME .
+favor.thehouseplantblog.com CNAME .
+*.favor.thehouseplantblog.com CNAME .
 favorable-lady.pro CNAME .
 *.favorable-lady.pro CNAME .
 favorable-sample.com CNAME .
@@ -40568,6 +40552,8 @@ feredletrighro.com CNAME .
 *.feredletrighro.com CNAME .
 feredletrighro.info CNAME .
 *.feredletrighro.info CNAME .
+ferisonledger.com CNAME .
+*.ferisonledger.com CNAME .
 fermacyupplow.com CNAME .
 *.fermacyupplow.com CNAME .
 fermassociates.com CNAME .
@@ -41964,8 +41950,6 @@ forestofgames.org CNAME .
 *.forestofgames.org CNAME .
 forestseasons.com.cn CNAME .
 *.forestseasons.com.cn CNAME .
-forestwo1f.ltd CNAME .
-*.forestwo1f.ltd CNAME .
 foretellfifth.com CNAME .
 *.foretellfifth.com CNAME .
 foreverhealthsculptor.com CNAME .
@@ -42304,8 +42288,6 @@ franceconsobanque.fr CNAME .
 *.franceconsobanque.fr CNAME .
 francetobaccotrading.com CNAME .
 *.francetobaccotrading.com CNAME .
-franchiseworld.hk CNAME .
-*.franchiseworld.hk CNAME .
 francisunbeget.com CNAME .
 *.francisunbeget.com CNAME .
 francoistsjacqu.info CNAME .
@@ -53876,8 +53858,6 @@ jiabo.shop CNAME .
 *.jiabo.shop CNAME .
 jiajiann.cn CNAME .
 *.jiajiann.cn CNAME .
-jiangzhou.ltd CNAME .
-*.jiangzhou.ltd CNAME .
 jianjianjiao.top CNAME .
 *.jianjianjiao.top CNAME .
 jianly.top CNAME .
@@ -55316,8 +55296,6 @@ kdsnw.today CNAME .
 *.kdsnw.today CNAME .
 kdteuduavap.xyz CNAME .
 *.kdteuduavap.xyz CNAME .
-ke4x.xyz CNAME .
-*.ke4x.xyz CNAME .
 keamateorski.xyz CNAME .
 *.keamateorski.xyz CNAME .
 keanebridge.com CNAME .
@@ -63698,8 +63676,6 @@ mjrrojcneft.com CNAME .
 *.mjrrojcneft.com CNAME .
 mjrvkv5.com CNAME .
 *.mjrvkv5.com CNAME .
-mjxtiht.cn CNAME .
-*.mjxtiht.cn CNAME .
 mk-cdn.net CNAME .
 *.mk-cdn.net CNAME .
 mkblaboratoires.com CNAME .
@@ -66582,8 +66558,6 @@ nedestablish.com CNAME .
 *.nedestablish.com CNAME .
 nedouseso.com CNAME .
 *.nedouseso.com CNAME .
-nedstat.nl CNAME .
-*.nedstat.nl CNAME .
 nedstatbasic.net CNAME .
 *.nedstatbasic.net CNAME .
 nedtewksxn.xyz CNAME .
@@ -67078,8 +67052,6 @@ newsolution.cl CNAME .
 *.newsolution.cl CNAME .
 newspolovb.info CNAME .
 *.newspolovb.info CNAME .
-newspress.name CNAME .
-*.newspress.name CNAME .
 newspush.sinajs.cn CNAME .
 *.newspush.sinajs.cn CNAME .
 newsroomspecial.com CNAME .
@@ -76924,6 +76896,8 @@ puhalerasmus.com CNAME .
 *.puhalerasmus.com CNAME .
 puhtml.com CNAME .
 *.puhtml.com CNAME .
+puinavikytes.com CNAME .
+*.puinavikytes.com CNAME .
 puitaexb.com CNAME .
 *.puitaexb.com CNAME .
 pujgasciuxpck.xyz CNAME .
@@ -78362,8 +78336,6 @@ qzgbhuelut.com CNAME .
 *.qzgbhuelut.com CNAME .
 qzggvcrz.page.link CNAME .
 *.qzggvcrz.page.link CNAME .
-qzqyw.cn CNAME .
-*.qzqyw.cn CNAME .
 qzs.gdtimg.com CNAME .
 *.qzs.gdtimg.com CNAME .
 qzyfpfyy.com CNAME .
@@ -93178,8 +93150,6 @@ tc-log.mattel163.com CNAME .
 *.tc-log.mattel163.com CNAME .
 tc.fileplaneta.com CNAME .
 *.tc.fileplaneta.com CNAME .
-tc.puinavikytes.com CNAME .
-*.tc.puinavikytes.com CNAME .
 tc.reachicepick.com CNAME .
 *.tc.reachicepick.com CNAME .
 tc600.com CNAME .
@@ -93806,8 +93776,6 @@ tesla-evnt.site CNAME .
 *.tesla-evnt.site CNAME .
 tesla-life.org CNAME .
 *.tesla-life.org CNAME .
-tesla-make.com CNAME .
-*.tesla-make.com CNAME .
 tesla-network.net CNAME .
 *.tesla-network.net CNAME .
 tesla-rt.com CNAME .
@@ -95200,8 +95168,6 @@ tissuecameallowing.com CNAME .
 *.tissuecameallowing.com CNAME .
 tissuespectrumadulthood.com CNAME .
 *.tissuespectrumadulthood.com CNAME .
-tisszhb.cn CNAME .
-*.tisszhb.cn CNAME .
 tiszaors.hu CNAME .
 *.tiszaors.hu CNAME .
 titanads1.com CNAME .
@@ -101008,8 +100974,6 @@ vebadu.com CNAME .
 *.vebadu.com CNAME .
 vebaz.com CNAME .
 *.vebaz.com CNAME .
-vebmarket.az CNAME .
-*.vebmarket.az CNAME .
 vebo-vast.pages.dev CNAME .
 *.vebo-vast.pages.dev CNAME .
 vecoso.com CNAME .
@@ -102120,8 +102084,6 @@ voivoderageful.website CNAME .
 *.voivoderageful.website CNAME .
 vojservices.com CNAME .
 *.vojservices.com CNAME .
-volart.net CNAME .
-*.volart.net CNAME .
 volatintptr.com CNAME .
 *.volatintptr.com CNAME .
 volcanoimplement.com CNAME .
@@ -106820,8 +106782,6 @@ yepsobtax.com CNAME .
 *.yepsobtax.com CNAME .
 yepteaswont.com CNAME .
 *.yepteaswont.com CNAME .
-yeriri.ltd CNAME .
-*.yeriri.ltd CNAME .
 yerto.info CNAME .
 *.yerto.info CNAME .
 yes-messenger.com CNAME .
