@@ -1,7 +1,7 @@
-# Version: 202303171619
+# Version: 202303180007
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-17T16:19:34+0000
+# Last modified: 2023-03-18T00:07:01+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                                                   
@@ -46613,7 +46613,6 @@ server=/tc-bic.appspot.com/
 server=/tc-clicks.com/
 server=/tc-log.mattel163.com/
 server=/tc.fileplaneta.com/
-server=/tc.reachicepick.com/
 server=/tc600.com/
 server=/tcaadwa.com/
 server=/tcache.ml/
@@ -52001,6 +52000,7 @@ server=/whugesto.net/
 server=/whukroal.net/
 server=/whulsaux.com/
 server=/whulterprotein.com/
+server=/whum.top/
 server=/whuptaiz.net/
 server=/whybuyitnow.com/
 server=/whychymithy.com/
@@ -54120,7 +54120,6 @@ server=/znaptag.com/
 server=/znindia.in/
 server=/znllfp.xyz/
 server=/znnhmzumod.com/
-server=/zo.minunetclose.com/
 server=/zo7gihmry2.com/
 server=/zoachoar.net/
 server=/zoachops.com/

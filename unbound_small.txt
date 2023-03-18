@@ -1,7 +1,7 @@
-# Version: 202303171619
+# Version: 202303180007
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-17T16:19:35+0000
+# Last modified: 2023-03-18T00:07:02+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                                  
@@ -46615,7 +46615,6 @@ local-zone: "tc-bic.appspot.com." always_null
 local-zone: "tc-clicks.com." always_null
 local-zone: "tc-log.mattel163.com." always_null
 local-zone: "tc.fileplaneta.com." always_null
-local-zone: "tc.reachicepick.com." always_null
 local-zone: "tc600.com." always_null
 local-zone: "tcaadwa.com." always_null
 local-zone: "tcache.ml." always_null
@@ -52003,6 +52002,7 @@ local-zone: "whugesto.net." always_null
 local-zone: "whukroal.net." always_null
 local-zone: "whulsaux.com." always_null
 local-zone: "whulterprotein.com." always_null
+local-zone: "whum.top." always_null
 local-zone: "whuptaiz.net." always_null
 local-zone: "whybuyitnow.com." always_null
 local-zone: "whychymithy.com." always_null
@@ -54122,7 +54122,6 @@ local-zone: "znaptag.com." always_null
 local-zone: "znindia.in." always_null
 local-zone: "znllfp.xyz." always_null
 local-zone: "znnhmzumod.com." always_null
-local-zone: "zo.minunetclose.com." always_null
 local-zone: "zo7gihmry2.com." always_null
 local-zone: "zoachoar.net." always_null
 local-zone: "zoachops.com." always_null

@@ -1,7 +1,7 @@
-# Version: 202303171619
+# Version: 202303180007
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-17T16:19:35+0000
+# Last modified: 2023-03-18T00:07:01+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                                               
@@ -46613,7 +46613,6 @@ local=/tc-bic.appspot.com/
 local=/tc-clicks.com/
 local=/tc-log.mattel163.com/
 local=/tc.fileplaneta.com/
-local=/tc.reachicepick.com/
 local=/tc600.com/
 local=/tcaadwa.com/
 local=/tcache.ml/
@@ -52001,6 +52000,7 @@ local=/whugesto.net/
 local=/whukroal.net/
 local=/whulsaux.com/
 local=/whulterprotein.com/
+local=/whum.top/
 local=/whuptaiz.net/
 local=/whybuyitnow.com/
 local=/whychymithy.com/
@@ -54120,7 +54120,6 @@ local=/znaptag.com/
 local=/znindia.in/
 local=/znllfp.xyz/
 local=/znnhmzumod.com/
-local=/zo.minunetclose.com/
 local=/zo7gihmry2.com/
 local=/zoachoar.net/
 local=/zoachops.com/

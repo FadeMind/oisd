@@ -1,13 +1,13 @@
-; Version: 202303171619
+; Version: 202303180007
 ; Description: Block. Don't break.
 ; Title: oisd small
-; Last modified: 2023-03-17T16:19:35+0000
+; Last modified: 2023-03-18T00:07:02+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                                     
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679069358 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679097602 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -93224,8 +93224,6 @@ tc-log.mattel163.com CNAME .
 *.tc-log.mattel163.com CNAME .
 tc.fileplaneta.com CNAME .
 *.tc.fileplaneta.com CNAME .
-tc.reachicepick.com CNAME .
-*.tc.reachicepick.com CNAME .
 tc600.com CNAME .
 *.tc600.com CNAME .
 tcaadwa.com CNAME .
@@ -104000,6 +103998,8 @@ whulsaux.com CNAME .
 *.whulsaux.com CNAME .
 whulterprotein.com CNAME .
 *.whulterprotein.com CNAME .
+whum.top CNAME .
+*.whum.top CNAME .
 whuptaiz.net CNAME .
 *.whuptaiz.net CNAME .
 whybuyitnow.com CNAME .
@@ -108238,8 +108238,6 @@ znllfp.xyz CNAME .
 *.znllfp.xyz CNAME .
 znnhmzumod.com CNAME .
 *.znnhmzumod.com CNAME .
-zo.minunetclose.com CNAME .
-*.zo.minunetclose.com CNAME .
 zo7gihmry2.com CNAME .
 *.zo7gihmry2.com CNAME .
 zoachoar.net CNAME .
