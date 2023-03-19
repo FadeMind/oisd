@@ -1,13 +1,13 @@
-; Version: 202303191505
+; Version: 202303191727
 ; Description: Block. Don't break.
 ; Title: oisd small
-; Last modified: 2023-03-19T15:05:04+0000
+; Last modified: 2023-03-19T17:27:57+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                                     
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679235983 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679246536 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -3188,8 +3188,6 @@ $TTL 30
 *.9akjsbjkdasd99.monster CNAME .
 9akwbkdajw99.monster CNAME .
 *.9akwbkdajw99.monster CNAME .
-9bc94f7305.com CNAME .
-*.9bc94f7305.com CNAME .
 9c40a04e9732e6a6.com CNAME .
 *.9c40a04e9732e6a6.com CNAME .
 9cbj41a5.de CNAME .
@@ -18380,8 +18378,6 @@ be-rtl.videoplaza.tv CNAME .
 *.be-rtl.videoplaza.tv CNAME .
 be02b.asset.tradingvein.xyz CNAME .
 *.be02b.asset.tradingvein.xyz CNAME .
-be59d81163.com CNAME .
-*.be59d81163.com CNAME .
 bea-s.dinghuoche.com CNAME .
 *.bea-s.dinghuoche.com CNAME .
 beabsolom.com CNAME .
@@ -38558,8 +38554,6 @@ etcodes.com CNAME .
 *.etcodes.com CNAME .
 etctrucks.ro CNAME .
 *.etctrucks.ro CNAME .
-etdcezc.cn CNAME .
-*.etdcezc.cn CNAME .
 etdemo.in CNAME .
 *.etdemo.in CNAME .
 etecsys.net CNAME .
@@ -50444,8 +50438,6 @@ icrmat.com CNAME .
 *.icrmat.com CNAME .
 icu.getstorybox.com CNAME .
 *.icu.getstorybox.com CNAME .
-icwxhuvssqdkc.com CNAME .
-*.icwxhuvssqdkc.com CNAME .
 icyporno.com CNAME .
 *.icyporno.com CNAME .
 icyrd.com CNAME .
@@ -57196,8 +57188,6 @@ lamforsung.com CNAME .
 *.lamforsung.com CNAME .
 lamh.online CNAME .
 *.lamh.online CNAME .
-laminarrailage.com CNAME .
-*.laminarrailage.com CNAME .
 lamired.com CNAME .
 *.lamired.com CNAME .
 lammasbananas.com CNAME .
@@ -81546,8 +81536,6 @@ rollsbeer.com CNAME .
 *.rollsbeer.com CNAME .
 rollserver.xyz CNAME .
 *.rollserver.xyz CNAME .
-rolqjpdobpb.com CNAME .
-*.rolqjpdobpb.com CNAME .
 rolzox.com CNAME .
 *.rolzox.com CNAME .
 romagetukio.xyz CNAME .
@@ -98384,8 +98372,6 @@ tsatwushcyiihh.com CNAME .
 *.tsatwushcyiihh.com CNAME .
 tschudy.net CNAME .
 *.tschudy.net CNAME .
-tsck.online CNAME .
-*.tsck.online CNAME .
 tsescorts.site CNAME .
 *.tsescorts.site CNAME .
 tsiwholsalers.com CNAME .
@@ -105548,8 +105534,6 @@ wxspfkln.com CNAME .
 *.wxspfkln.com CNAME .
 wxyn0o3xmora.com CNAME .
 *.wxyn0o3xmora.com CNAME .
-wxzrw.com CNAME .
-*.wxzrw.com CNAME .
 wyathservices.com CNAME .
 *.wyathservices.com CNAME .
 wyglyvaso.com CNAME .

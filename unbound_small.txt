@@ -1,7 +1,7 @@
-# Version: 202303191505
+# Version: 202303191727
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-19T15:05:04+0000
+# Last modified: 2023-03-19T17:27:57+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                                  
@@ -1597,7 +1597,6 @@ local-zone: "9af7e8a8cc.com." always_null
 local-zone: "9akjbsdkjas0.monster." always_null
 local-zone: "9akjsbjkdasd99.monster." always_null
 local-zone: "9akwbkdajw99.monster." always_null
-local-zone: "9bc94f7305.com." always_null
 local-zone: "9c40a04e9732e6a6.com." always_null
 local-zone: "9cbj41a5.de." always_null
 local-zone: "9cd76b4462bb.com." always_null
@@ -9193,7 +9192,6 @@ local-zone: "bdx.playnext.cn." always_null
 local-zone: "be-maker.com." always_null
 local-zone: "be-rtl.videoplaza.tv." always_null
 local-zone: "be02b.asset.tradingvein.xyz." always_null
-local-zone: "be59d81163.com." always_null
 local-zone: "bea-s.dinghuoche.com." always_null
 local-zone: "beabsolom.com." always_null
 local-zone: "beachamptonmotors.co.uk." always_null
@@ -19282,7 +19280,6 @@ local-zone: "etargetnet.com." always_null
 local-zone: "etcanaengineering.com." always_null
 local-zone: "etcodes.com." always_null
 local-zone: "etctrucks.ro." always_null
-local-zone: "etdcezc.cn." always_null
 local-zone: "etdemo.in." always_null
 local-zone: "etecsys.net." always_null
 local-zone: "etek.co.in." always_null
@@ -25225,7 +25222,6 @@ local-zone: "icqqjipv.com." always_null
 local-zone: "icradost.org." always_null
 local-zone: "icrmat.com." always_null
 local-zone: "icu.getstorybox.com." always_null
-local-zone: "icwxhuvssqdkc.com." always_null
 local-zone: "icyporno.com." always_null
 local-zone: "icyrd.com." always_null
 local-zone: "icyrwy.xyz." always_null
@@ -28601,7 +28597,6 @@ local-zone: "lamerenfrancais.com." always_null
 local-zone: "lameterthenhep.com." always_null
 local-zone: "lamforsung.com." always_null
 local-zone: "lamh.online." always_null
-local-zone: "laminarrailage.com." always_null
 local-zone: "lamired.com." always_null
 local-zone: "lammasbananas.com." always_null
 local-zone: "lamp-shade.net." always_null
@@ -40776,7 +40771,6 @@ local-zone: "rollmeout.xyz." always_null
 local-zone: "rollodoors.com." always_null
 local-zone: "rollsbeer.com." always_null
 local-zone: "rollserver.xyz." always_null
-local-zone: "rolqjpdobpb.com." always_null
 local-zone: "rolzox.com." always_null
 local-zone: "romagetukio.xyz." always_null
 local-zone: "romalitod.com." always_null
@@ -49195,7 +49189,6 @@ local-zone: "tsarkinds.com." always_null
 local-zone: "tsarpettish.store." always_null
 local-zone: "tsatwushcyiihh.com." always_null
 local-zone: "tschudy.net." always_null
-local-zone: "tsck.online." always_null
 local-zone: "tsescorts.site." always_null
 local-zone: "tsiwholsalers.com." always_null
 local-zone: "tsiwoulukdli.xyz." always_null
@@ -52777,7 +52770,6 @@ local-zone: "wxseedslpi.com." always_null
 local-zone: "wxskqy.cn." always_null
 local-zone: "wxspfkln.com." always_null
 local-zone: "wxyn0o3xmora.com." always_null
-local-zone: "wxzrw.com." always_null
 local-zone: "wyathservices.com." always_null
 local-zone: "wyglyvaso.com." always_null
 local-zone: "wyhifdpatl.com." always_null

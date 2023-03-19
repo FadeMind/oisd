@@ -1,7 +1,7 @@
-# Version: 202303191505
+# Version: 202303191727
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-19T15:05:03+0000
+# Last modified: 2023-03-19T17:27:56+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                                                   
@@ -1595,7 +1595,6 @@ server=/9af7e8a8cc.com/
 server=/9akjbsdkjas0.monster/
 server=/9akjsbjkdasd99.monster/
 server=/9akwbkdajw99.monster/
-server=/9bc94f7305.com/
 server=/9c40a04e9732e6a6.com/
 server=/9cbj41a5.de/
 server=/9cd76b4462bb.com/
@@ -9191,7 +9190,6 @@ server=/bdx.playnext.cn/
 server=/be-maker.com/
 server=/be-rtl.videoplaza.tv/
 server=/be02b.asset.tradingvein.xyz/
-server=/be59d81163.com/
 server=/bea-s.dinghuoche.com/
 server=/beabsolom.com/
 server=/beachamptonmotors.co.uk/
@@ -19280,7 +19278,6 @@ server=/etargetnet.com/
 server=/etcanaengineering.com/
 server=/etcodes.com/
 server=/etctrucks.ro/
-server=/etdcezc.cn/
 server=/etdemo.in/
 server=/etecsys.net/
 server=/etek.co.in/
@@ -25223,7 +25220,6 @@ server=/icqqjipv.com/
 server=/icradost.org/
 server=/icrmat.com/
 server=/icu.getstorybox.com/
-server=/icwxhuvssqdkc.com/
 server=/icyporno.com/
 server=/icyrd.com/
 server=/icyrwy.xyz/
@@ -28599,7 +28595,6 @@ server=/lamerenfrancais.com/
 server=/lameterthenhep.com/
 server=/lamforsung.com/
 server=/lamh.online/
-server=/laminarrailage.com/
 server=/lamired.com/
 server=/lammasbananas.com/
 server=/lamp-shade.net/
@@ -40774,7 +40769,6 @@ server=/rollmeout.xyz/
 server=/rollodoors.com/
 server=/rollsbeer.com/
 server=/rollserver.xyz/
-server=/rolqjpdobpb.com/
 server=/rolzox.com/
 server=/romagetukio.xyz/
 server=/romalitod.com/
@@ -49193,7 +49187,6 @@ server=/tsarkinds.com/
 server=/tsarpettish.store/
 server=/tsatwushcyiihh.com/
 server=/tschudy.net/
-server=/tsck.online/
 server=/tsescorts.site/
 server=/tsiwholsalers.com/
 server=/tsiwoulukdli.xyz/
@@ -52775,7 +52768,6 @@ server=/wxseedslpi.com/
 server=/wxskqy.cn/
 server=/wxspfkln.com/
 server=/wxyn0o3xmora.com/
-server=/wxzrw.com/
 server=/wyathservices.com/
 server=/wyglyvaso.com/
 server=/wyhifdpatl.com/

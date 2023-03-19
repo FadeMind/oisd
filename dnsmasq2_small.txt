@@ -1,7 +1,7 @@
-# Version: 202303191505
+# Version: 202303191727
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-19T15:05:03+0000
+# Last modified: 2023-03-19T17:27:57+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                                               
@@ -1595,7 +1595,6 @@ local=/9af7e8a8cc.com/
 local=/9akjbsdkjas0.monster/
 local=/9akjsbjkdasd99.monster/
 local=/9akwbkdajw99.monster/
-local=/9bc94f7305.com/
 local=/9c40a04e9732e6a6.com/
 local=/9cbj41a5.de/
 local=/9cd76b4462bb.com/
@@ -9191,7 +9190,6 @@ local=/bdx.playnext.cn/
 local=/be-maker.com/
 local=/be-rtl.videoplaza.tv/
 local=/be02b.asset.tradingvein.xyz/
-local=/be59d81163.com/
 local=/bea-s.dinghuoche.com/
 local=/beabsolom.com/
 local=/beachamptonmotors.co.uk/
@@ -19280,7 +19278,6 @@ local=/etargetnet.com/
 local=/etcanaengineering.com/
 local=/etcodes.com/
 local=/etctrucks.ro/
-local=/etdcezc.cn/
 local=/etdemo.in/
 local=/etecsys.net/
 local=/etek.co.in/
@@ -25223,7 +25220,6 @@ local=/icqqjipv.com/
 local=/icradost.org/
 local=/icrmat.com/
 local=/icu.getstorybox.com/
-local=/icwxhuvssqdkc.com/
 local=/icyporno.com/
 local=/icyrd.com/
 local=/icyrwy.xyz/
@@ -28599,7 +28595,6 @@ local=/lamerenfrancais.com/
 local=/lameterthenhep.com/
 local=/lamforsung.com/
 local=/lamh.online/
-local=/laminarrailage.com/
 local=/lamired.com/
 local=/lammasbananas.com/
 local=/lamp-shade.net/
@@ -40774,7 +40769,6 @@ local=/rollmeout.xyz/
 local=/rollodoors.com/
 local=/rollsbeer.com/
 local=/rollserver.xyz/
-local=/rolqjpdobpb.com/
 local=/rolzox.com/
 local=/romagetukio.xyz/
 local=/romalitod.com/
@@ -49193,7 +49187,6 @@ local=/tsarkinds.com/
 local=/tsarpettish.store/
 local=/tsatwushcyiihh.com/
 local=/tschudy.net/
-local=/tsck.online/
 local=/tsescorts.site/
 local=/tsiwholsalers.com/
 local=/tsiwoulukdli.xyz/
@@ -52775,7 +52768,6 @@ local=/wxseedslpi.com/
 local=/wxskqy.cn/
 local=/wxspfkln.com/
 local=/wxyn0o3xmora.com/
-local=/wxzrw.com/
 local=/wyathservices.com/
 local=/wyglyvaso.com/
 local=/wyhifdpatl.com/
