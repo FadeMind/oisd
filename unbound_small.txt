@@ -1,7 +1,7 @@
-# Version: 202303191211
+# Version: 202303191505
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-19T12:11:59+0000
+# Last modified: 2023-03-19T15:05:04+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                                  
@@ -20478,7 +20478,6 @@ local-zone: "filetedlawines.com." always_null
 local-zone: "filetstaipo.com." always_null
 local-zone: "fileuploady.com." always_null
 local-zone: "filippiwilled.uno." always_null
-local-zone: "fillidutt.tw." always_null
 local-zone: "fillsitsy.cam." always_null
 local-zone: "filmakhbar.com." always_null
 local-zone: "filmebunehd1.com." always_null
@@ -39295,7 +39294,6 @@ local-zone: "qz.equalsenframe.com." always_null
 local-zone: "qz496amxfh87mst.com." always_null
 local-zone: "qzgbhuelut.com." always_null
 local-zone: "qzggvcrz.page.link." always_null
-local-zone: "qzhiku.cc." always_null
 local-zone: "qzs.gdtimg.com." always_null
 local-zone: "qzyfpfyy.com." always_null
 local-zone: "r-ad.linkshare.jp." always_null
@@ -51094,7 +51092,6 @@ local-zone: "vivsoaps.com." always_null
 local-zone: "vixoafte.xyz." always_null
 local-zone: "vizagtobfx.com." always_null
 local-zone: "vizu.com." always_null
-local-zone: "vj1p.xyz." always_null
 local-zone: "vjdciu.com." always_null
 local-zone: "vjianshen1688.com." always_null
 local-zone: "vjyhh91fxxn29t7p3w.vin." always_null
@@ -53666,7 +53663,6 @@ local-zone: "ylx-4.com." always_null
 local-zone: "ylykd.cn." always_null
 local-zone: "ym-a.cc." always_null
 local-zone: "ym8p.net." always_null
-local-zone: "ymepooluqd.com." always_null
 local-zone: "ymetrica1.com." always_null
 local-zone: "ymhkicwddqox.xyz." always_null
 local-zone: "ymprove.gmx.net." always_null

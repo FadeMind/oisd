@@ -1,7 +1,7 @@
-# Version: 202303191211
+# Version: 202303191505
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-19T12:11:58+0000
+# Last modified: 2023-03-19T15:05:03+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                                                   
@@ -20476,7 +20476,6 @@ server=/filetedlawines.com/
 server=/filetstaipo.com/
 server=/fileuploady.com/
 server=/filippiwilled.uno/
-server=/fillidutt.tw/
 server=/fillsitsy.cam/
 server=/filmakhbar.com/
 server=/filmebunehd1.com/
@@ -39293,7 +39292,6 @@ server=/qz.equalsenframe.com/
 server=/qz496amxfh87mst.com/
 server=/qzgbhuelut.com/
 server=/qzggvcrz.page.link/
-server=/qzhiku.cc/
 server=/qzs.gdtimg.com/
 server=/qzyfpfyy.com/
 server=/r-ad.linkshare.jp/
@@ -51092,7 +51090,6 @@ server=/vivsoaps.com/
 server=/vixoafte.xyz/
 server=/vizagtobfx.com/
 server=/vizu.com/
-server=/vj1p.xyz/
 server=/vjdciu.com/
 server=/vjianshen1688.com/
 server=/vjyhh91fxxn29t7p3w.vin/
@@ -53664,7 +53661,6 @@ server=/ylx-4.com/
 server=/ylykd.cn/
 server=/ym-a.cc/
 server=/ym8p.net/
-server=/ymepooluqd.com/
 server=/ymetrica1.com/
 server=/ymhkicwddqox.xyz/
 server=/ymprove.gmx.net/

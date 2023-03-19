@@ -1,13 +1,13 @@
-; Version: 202303191211
+; Version: 202303191505
 ; Description: Block. Don't break.
 ; Title: oisd small
-; Last modified: 2023-03-19T12:11:58+0000
+; Last modified: 2023-03-19T15:05:04+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                                     
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679227204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679235983 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -40950,8 +40950,6 @@ fileuploady.com CNAME .
 *.fileuploady.com CNAME .
 filippiwilled.uno CNAME .
 *.filippiwilled.uno CNAME .
-fillidutt.tw CNAME .
-*.fillidutt.tw CNAME .
 fillsitsy.cam CNAME .
 *.fillsitsy.cam CNAME .
 filmakhbar.com CNAME .
@@ -78584,8 +78582,6 @@ qzgbhuelut.com CNAME .
 *.qzgbhuelut.com CNAME .
 qzggvcrz.page.link CNAME .
 *.qzggvcrz.page.link CNAME .
-qzhiku.cc CNAME .
-*.qzhiku.cc CNAME .
 qzs.gdtimg.com CNAME .
 *.qzs.gdtimg.com CNAME .
 qzyfpfyy.com CNAME .
@@ -102182,8 +102178,6 @@ vizagtobfx.com CNAME .
 *.vizagtobfx.com CNAME .
 vizu.com CNAME .
 *.vizu.com CNAME .
-vj1p.xyz CNAME .
-*.vj1p.xyz CNAME .
 vjdciu.com CNAME .
 *.vjdciu.com CNAME .
 vjianshen1688.com CNAME .
@@ -107326,8 +107320,6 @@ ym-a.cc CNAME .
 *.ym-a.cc CNAME .
 ym8p.net CNAME .
 *.ym8p.net CNAME .
-ymepooluqd.com CNAME .
-*.ymepooluqd.com CNAME .
 ymetrica1.com CNAME .
 *.ymetrica1.com CNAME .
 ymhkicwddqox.xyz CNAME .
