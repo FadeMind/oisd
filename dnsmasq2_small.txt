@@ -1,7 +1,7 @@
-# Version: 202303181754
+# Version: 202303190910
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-18T17:54:16+0000
+# Last modified: 2023-03-19T09:10:45+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                                               
@@ -6829,7 +6829,6 @@ local=/api.postscript.io/
 local=/api.proba.ai/
 local=/api.pubfinity.com/
 local=/api.pushspring.com/
-local=/api.radar.io/
 local=/api.reftagger.com/
 local=/api.rotatornet.com/
 local=/api.sail-track.com/

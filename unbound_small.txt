@@ -1,7 +1,7 @@
-# Version: 202303181754
+# Version: 202303190910
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-18T17:54:16+0000
+# Last modified: 2023-03-19T09:10:47+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                                  
@@ -6831,7 +6831,6 @@ local-zone: "api.postscript.io." always_null
 local-zone: "api.proba.ai." always_null
 local-zone: "api.pubfinity.com." always_null
 local-zone: "api.pushspring.com." always_null
-local-zone: "api.radar.io." always_null
 local-zone: "api.reftagger.com." always_null
 local-zone: "api.rotatornet.com." always_null
 local-zone: "api.sail-track.com." always_null

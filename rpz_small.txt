@@ -1,13 +1,13 @@
-; Version: 202303181754
+; Version: 202303190910
 ; Description: Block. Don't break.
 ; Title: oisd small
-; Last modified: 2023-03-18T17:54:16+0000
+; Last modified: 2023-03-19T09:10:46+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                                     
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679161480 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679217046 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -13656,8 +13656,6 @@ api.pubfinity.com CNAME .
 *.api.pubfinity.com CNAME .
 api.pushspring.com CNAME .
 *.api.pushspring.com CNAME .
-api.radar.io CNAME .
-*.api.radar.io CNAME .
 api.reftagger.com CNAME .
 *.api.reftagger.com CNAME .
 api.rotatornet.com CNAME .
