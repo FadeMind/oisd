@@ -1,7 +1,7 @@
-# Version: 202303201613
+# Version: 202303201953
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-20T16:13:47+0000
+# Last modified: 2023-03-20T19:53:39+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                                  
@@ -12984,7 +12984,6 @@ local-zone: "client-telemetry.roblox.com." always_null
 local-zone: "client.botchk.net." always_null
 local-zone: "client.midosoo.com." always_null
 local-zone: "client.perimeterx.net." always_null
-local-zone: "client.rave-api.com." always_null
 local-zone: "client2009x25.xcdn.ovh." always_null
 local-zone: "clientescianet.com.br." always_null
 local-zone: "clientinfo.phimmoizz.net." always_null

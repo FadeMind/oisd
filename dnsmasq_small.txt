@@ -1,7 +1,7 @@
-# Version: 202303201613
+# Version: 202303201953
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-20T16:13:45+0000
+# Last modified: 2023-03-20T19:53:37+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                                                   
@@ -12982,7 +12982,6 @@ server=/client-telemetry.roblox.com/
 server=/client.botchk.net/
 server=/client.midosoo.com/
 server=/client.perimeterx.net/
-server=/client.rave-api.com/
 server=/client2009x25.xcdn.ovh/
 server=/clientescianet.com.br/
 server=/clientinfo.phimmoizz.net/

@@ -1,13 +1,13 @@
-; Version: 202303201613
+; Version: 202303201953
 ; Description: Block. Don't break.
 ; Title: oisd small
-; Last modified: 2023-03-20T16:13:47+0000
+; Last modified: 2023-03-20T19:53:38+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                                     
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679328827 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679342019 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -25962,8 +25962,6 @@ client.midosoo.com CNAME .
 *.client.midosoo.com CNAME .
 client.perimeterx.net CNAME .
 *.client.perimeterx.net CNAME .
-client.rave-api.com CNAME .
-*.client.rave-api.com CNAME .
 client2009x25.xcdn.ovh CNAME .
 *.client2009x25.xcdn.ovh CNAME .
 clientescianet.com.br CNAME .

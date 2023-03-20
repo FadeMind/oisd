@@ -1,7 +1,7 @@
-# Version: 202303201613
+# Version: 202303201953
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-20T16:13:43+0000
+# Last modified: 2023-03-20T19:53:35+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards) without *.                                           
@@ -12985,7 +12985,6 @@ client-telemetry.roblox.com
 client.botchk.net
 client.midosoo.com
 client.perimeterx.net
-client.rave-api.com
 client2009x25.xcdn.ovh
 clientescianet.com.br
 clientinfo.phimmoizz.net
