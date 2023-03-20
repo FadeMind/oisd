@@ -1,13 +1,13 @@
-; Version: 202303200009
+; Version: 202303201206
 ; Description: Block. Don't break.
 ; Title: oisd small
-; Last modified: 2023-03-20T00:09:25+0000
+; Last modified: 2023-03-20T12:06:18+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                                     
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679270403 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679313601 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -5060,8 +5060,6 @@ ad.hyena.cz CNAME .
 *.ad.hyena.cz CNAME .
 ad.icheck.com.vn CNAME .
 *.ad.icheck.com.vn CNAME .
-ad.ieurop.net CNAME .
-*.ad.ieurop.net CNAME .
 ad.iinfo.cz CNAME .
 *.ad.iinfo.cz CNAME .
 ad.il.doubleclick.net CNAME .
@@ -5476,8 +5474,6 @@ adadvisor.net CNAME .
 *.adadvisor.net CNAME .
 adagiobanner.s3.amazonaws.com CNAME .
 *.adagiobanner.s3.amazonaws.com CNAME .
-adalliance.io CNAME .
-*.adalliance.io CNAME .
 adalyser.com CNAME .
 *.adalyser.com CNAME .
 adamic2k8.wave.seedhost.eu CNAME .
@@ -5994,8 +5990,6 @@ adhome.icu CNAME .
 *.adhome.icu CNAME .
 adhood.com CNAME .
 *.adhood.com CNAME .
-adhostingsolutions.com CNAME .
-*.adhostingsolutions.com CNAME .
 adhub.digital CNAME .
 *.adhub.digital CNAME .
 adhubdigital.com CNAME .
@@ -6004,8 +5998,6 @@ adhunter.media CNAME .
 *.adhunter.media CNAME .
 adi.vcmedia.vn CNAME .
 *.adi.vcmedia.vn CNAME .
-adicate.com CNAME .
-*.adicate.com CNAME .
 adigi.icu CNAME .
 *.adigi.icu CNAME .
 adiiix.com CNAME .
@@ -6110,8 +6102,6 @@ adjuggler.net CNAME .
 *.adjuggler.net CNAME .
 adjuggler.yourdictionary.com CNAME .
 *.adjuggler.yourdictionary.com CNAME .
-adjungle.com CNAME .
-*.adjungle.com CNAME .
 adjustbedevilsweep.com CNAME .
 *.adjustbedevilsweep.com CNAME .
 adjustedminglecamouflage.com CNAME .
@@ -6148,8 +6138,6 @@ adl-hunter.com CNAME .
 *.adl-hunter.com CNAME .
 adl.mynetreklam.com CNAME .
 *.adl.mynetreklam.com CNAME .
-adlabs.ru CNAME .
-*.adlabs.ru CNAME .
 adland.ru CNAME .
 *.adland.ru CNAME .
 adlane.info CNAME .
@@ -6180,8 +6168,6 @@ adlightning.com CNAME .
 *.adlightning.com CNAME .
 adlink.de CNAME .
 *.adlink.de CNAME .
-adlink.net CNAME .
-*.adlink.net CNAME .
 adlite.net CNAME .
 *.adlite.net CNAME .
 adlockscreen.goforandroid.com CNAME .
@@ -6428,8 +6414,6 @@ adnet.ru CNAME .
 *.adnet.ru CNAME .
 adnetinteractive.com CNAME .
 *.adnetinteractive.com CNAME .
-adnetwork.com.br CNAME .
-*.adnetwork.com.br CNAME .
 adnetwork.net CNAME .
 *.adnetwork.net CNAME .
 adnetwork.vn CNAME .
@@ -6634,8 +6618,6 @@ adprosrv.com CNAME .
 *.adprosrv.com CNAME .
 adprotected.com CNAME .
 *.adprotected.com CNAME .
-adprotraffic.com CNAME .
-*.adprotraffic.com CNAME .
 adproxy.tf1.fr CNAME .
 *.adproxy.tf1.fr CNAME .
 adpublisher.s3.amazonaws.com CNAME .
@@ -9522,8 +9504,6 @@ afij001.xyz CNAME .
 *.afij001.xyz CNAME .
 afiles.webengage.com CNAME .
 *.afiles.webengage.com CNAME .
-afilio.com.br CNAME .
-*.afilio.com.br CNAME .
 afimpresores.pe CNAME .
 *.afimpresores.pe CNAME .
 afittogo.org CNAME .
@@ -12556,8 +12536,6 @@ analytics.thenewslens.com CNAME .
 *.analytics.thenewslens.com CNAME .
 analytics.threedeepmarketing.com CNAME .
 *.analytics.threedeepmarketing.com CNAME .
-analytics.tiendaenoferta.com CNAME .
-*.analytics.tiendaenoferta.com CNAME .
 analytics.tiki.vn CNAME .
 *.analytics.tiki.vn CNAME .
 analytics.tiktok.com CNAME .
@@ -14480,6 +14458,8 @@ aqpogwawr.com CNAME .
 *.aqpogwawr.com CNAME .
 aqsimkpg.xyz CNAME .
 *.aqsimkpg.xyz CNAME .
+aqt.adalliance.io CNAME .
+*.aqt.adalliance.io CNAME .
 aqua-adserver.com CNAME .
 *.aqua-adserver.com CNAME .
 aquaairfl.com CNAME .
@@ -15394,8 +15374,6 @@ aspiringattempt.com CNAME .
 *.aspiringattempt.com CNAME .
 aspsupermercados.com.br CNAME .
 *.aspsupermercados.com.br CNAME .
-asq.ezakus.net CNAME .
-*.asq.ezakus.net CNAME .
 asrety.com CNAME .
 *.asrety.com CNAME .
 asrop.xyz CNAME .
@@ -22390,8 +22368,6 @@ c3s.bionestraff.pro CNAME .
 *.c3s.bionestraff.pro CNAME .
 c3t-system-err.club CNAME .
 *.c3t-system-err.club CNAME .
-c3tag.com CNAME .
-*.c3tag.com CNAME .
 c43a3cd8f99413891.com CNAME .
 *.c43a3cd8f99413891.com CNAME .
 c44wergiu87heghoconutdx.com CNAME .
@@ -25896,8 +25872,6 @@ clicks.mods.de CNAME .
 *.clicks.mods.de CNAME .
 clicks.parsely.com CNAME .
 *.clicks.parsely.com CNAME .
-clicks.pipaffiliates.com CNAME .
-*.clicks.pipaffiliates.com CNAME .
 clicks.support CNAME .
 *.clicks.support CNAME .
 clicks.uptownleads.com CNAME .
@@ -35500,8 +35474,6 @@ dssnepal.com.np CNAME .
 *.dssnepal.com.np CNAME .
 dsstrk.com CNAME .
 *.dsstrk.com CNAME .
-dstillery.com CNAME .
-*.dstillery.com CNAME .
 dstocktout.com CNAME .
 *.dstocktout.com CNAME .
 dsultra.com CNAME .
@@ -37566,8 +37538,6 @@ emerizeculler.com CNAME .
 *.emerizeculler.com CNAME .
 emerse.com CNAME .
 *.emerse.com CNAME .
-emetriq.de CNAME .
-*.emetriq.de CNAME .
 emfrig.xyz CNAME .
 *.emfrig.xyz CNAME .
 emgwq.com CNAME .
@@ -48924,8 +48894,6 @@ holyrisen.com CNAME .
 *.holyrisen.com CNAME .
 homazingbysr.com CNAME .
 *.homazingbysr.com CNAME .
-home.edt02.net CNAME .
-*.home.edt02.net CNAME .
 homecareassistancebarrie.ca CNAME .
 *.homecareassistancebarrie.ca CNAME .
 homecareassistancehuntingtonwv.com CNAME .
@@ -55338,8 +55306,6 @@ kasych.net CNAME .
 *.kasych.net CNAME .
 kata.ng CNAME .
 *.kata.ng CNAME .
-kataprius.com CNAME .
-*.kataprius.com CNAME .
 katchouh.com CNAME .
 *.katchouh.com CNAME .
 katebugs.com CNAME .
@@ -58714,8 +58680,6 @@ livetvm.com CNAME .
 *.livetvm.com CNAME .
 liveunderestimate.com CNAME .
 *.liveunderestimate.com CNAME .
-liveuniversenetwork.com CNAME .
-*.liveuniversenetwork.com CNAME .
 liveupdt.com CNAME .
 *.liveupdt.com CNAME .
 liveviewer.ez.no CNAME .
@@ -60918,6 +60882,8 @@ mafaldaflamniabarateiro.skin CNAME .
 *.mafaldaflamniabarateiro.skin CNAME .
 mafgaq.com CNAME .
 *.mafgaq.com CNAME .
+mafo.adalliance.io CNAME .
+*.mafo.adalliance.io CNAME .
 mafrarc3e9h.com CNAME .
 *.mafrarc3e9h.com CNAME .
 magazinescontaining.com CNAME .
@@ -71310,8 +71276,6 @@ p-log.ykimg.com CNAME .
 *.p-log.ykimg.com CNAME .
 p-n.io CNAME .
 *.p-n.io CNAME .
-p-td.com CNAME .
-*.p-td.com CNAME .
 p.7060.la CNAME .
 *.p.7060.la CNAME .
 p.addthis.com CNAME .
@@ -74896,8 +74860,6 @@ popspace.virgilio.us CNAME .
 *.popspace.virgilio.us CNAME .
 popstate.net CNAME .
 *.popstate.net CNAME .
-poptival.com CNAME .
-*.poptival.com CNAME .
 poptm.com CNAME .
 *.poptm.com CNAME .
 poptri.com CNAME .
@@ -91572,8 +91534,6 @@ suitcasessheriffpilgrim.com CNAME .
 *.suitcasessheriffpilgrim.com CNAME .
 suitefenix.com.br CNAME .
 *.suitefenix.com.br CNAME .
-suitesmart.com CNAME .
-*.suitesmart.com CNAME .
 suitesterrage.com CNAME .
 *.suitesterrage.com CNAME .
 sukhsagarinstitute.in CNAME .
@@ -97074,6 +97034,8 @@ tracking-xaxis.adsafety.net CNAME .
 *.tracking-xaxis.adsafety.net CNAME .
 tracking.adactioninteractive.com CNAME .
 *.tracking.adactioninteractive.com CNAME .
+tracking.adalliance.io CNAME .
+*.tracking.adalliance.io CNAME .
 tracking.admarketplace.net.edgekey.net CNAME .
 *.tracking.admarketplace.net.edgekey.net CNAME .
 tracking.ads.global-fashion-group.com CNAME .
@@ -102386,8 +102348,6 @@ voluumtrk2.com CNAME .
 *.voluumtrk2.com CNAME .
 voluumtrk3.com CNAME .
 *.voluumtrk3.com CNAME .
-volvelle.tech CNAME .
-*.volvelle.tech CNAME .
 volver.timgoz.com.br CNAME .
 *.volver.timgoz.com.br CNAME .
 volvoexperience.co.za CNAME .
