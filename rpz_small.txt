@@ -1,13 +1,13 @@
-; Version: 202303191727
+; Version: 202303200009
 ; Description: Block. Don't break.
 ; Title: oisd small
-; Last modified: 2023-03-19T17:27:57+0000
+; Last modified: 2023-03-20T00:09:25+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                                     
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679246536 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679270403 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -2744,8 +2744,6 @@ $TTL 30
 *.7fva8algp45k.com CNAME .
 7g9m3r.com CNAME .
 *.7g9m3r.com CNAME .
-7gallery.com CNAME .
-*.7gallery.com CNAME .
 7gfs.com CNAME .
 *.7gfs.com CNAME .
 7hor9gul4s.com CNAME .
@@ -14212,6 +14210,8 @@ applaudliteratureconsultant.com CNAME .
 *.applaudliteratureconsultant.com CNAME .
 applausesuch.com CNAME .
 *.applausesuch.com CNAME .
+apple-service93.ru CNAME .
+*.apple-service93.ru CNAME .
 apple-val.looksmart.com CNAME .
 *.apple-val.looksmart.com CNAME .
 apple.analnoe24.com CNAME .
@@ -19402,6 +19402,8 @@ bg6s0.com CNAME .
 *.bg6s0.com CNAME .
 bgadx.com CNAME .
 *.bgadx.com CNAME .
+bgcold.com CNAME .
+*.bgcold.com CNAME .
 bgektxiadljflu.xyz CNAME .
 *.bgektxiadljflu.xyz CNAME .
 bgfgwcvuaynm.xyz CNAME .
@@ -24986,6 +24988,8 @@ chl7rysobc3ol6xla.com CNAME .
 *.chl7rysobc3ol6xla.com CNAME .
 chligh.com CNAME .
 *.chligh.com CNAME .
+chlign.com CNAME .
+*.chlign.com CNAME .
 chlinb.xyz CNAME .
 *.chlinb.xyz CNAME .
 chlod-qui.com CNAME .
@@ -29432,8 +29436,6 @@ cursodeestadistica.com CNAME .
 *.cursodeestadistica.com CNAME .
 cursodemineriadedatos.com CNAME .
 *.cursodemineriadedatos.com CNAME .
-cursodeparapsicologia.org CNAME .
-*.cursodeparapsicologia.org CNAME .
 cursoexatas.com.br CNAME .
 *.cursoexatas.com.br CNAME .
 cursormedicabnormal.com CNAME .
@@ -51662,8 +51664,6 @@ indoleads.com CNAME .
 *.indoleads.com CNAME .
 indolentleader.com CNAME .
 *.indolentleader.com CNAME .
-indonesias.me CNAME .
-*.indonesias.me CNAME .
 indooritalian.com CNAME .
 *.indooritalian.com CNAME .
 indoorsbeliefgrew.com CNAME .
@@ -57180,6 +57180,8 @@ lambu.info CNAME .
 *.lambu.info CNAME .
 lame7bsqu8barters.com CNAME .
 *.lame7bsqu8barters.com CNAME .
+lameguard.ru CNAME .
+*.lameguard.ru CNAME .
 lamerenfrancais.com CNAME .
 *.lamerenfrancais.com CNAME .
 lameterthenhep.com CNAME .
@@ -57570,8 +57572,6 @@ lcaccorhu.com CNAME .
 *.lcaccorhu.com CNAME .
 lcentntel.com CNAME .
 *.lcentntel.com CNAME .
-lceventos.net CNAME .
-*.lceventos.net CNAME .
 lcf.cmplay.cmcm.com CNAME .
 *.lcf.cmplay.cmcm.com CNAME .
 lcfooiqhro.com CNAME .
@@ -58400,6 +58400,8 @@ linario.de CNAME .
 *.linario.de CNAME .
 lindenprofessionalservices.com CNAME .
 *.lindenprofessionalservices.com CNAME .
+lindnerelektroanlagen.de CNAME .
+*.lindnerelektroanlagen.de CNAME .
 line1-log.biligame.net CNAME .
 *.line1-log.biligame.net CNAME .
 linear-f.com CNAME .
@@ -70248,6 +70250,8 @@ opnunskenya.org CNAME .
 *.opnunskenya.org CNAME .
 opolicycrea.xyz CNAME .
 *.opolicycrea.xyz CNAME .
+opolis.io CNAME .
+*.opolis.io CNAME .
 oponixa.com CNAME .
 *.oponixa.com CNAME .
 oposfcjfav.com CNAME .
@@ -84130,8 +84134,6 @@ schoolboyfingernail.com CNAME .
 *.schoolboyfingernail.com CNAME .
 schoolboyslogan.com CNAME .
 *.schoolboyslogan.com CNAME .
-schoolofspanish.co.za CNAME .
-*.schoolofspanish.co.za CNAME .
 schoonheidsspecialiste-ank.be CNAME .
 *.schoonheidsspecialiste-ank.be CNAME .
 schoutenkartoplan.com CNAME .
@@ -91658,8 +91660,6 @@ sungco.com.vn CNAME .
 *.sungco.com.vn CNAME .
 sunglassesmentallyproficient.com CNAME .
 *.sunglassesmentallyproficient.com CNAME .
-sunglassesninja.com CNAME .
-*.sunglassesninja.com CNAME .
 sungong1987.com CNAME .
 *.sungong1987.com CNAME .
 sunhomes.com.vn CNAME .
@@ -97988,8 +97988,6 @@ triedfavourable.com CNAME .
 *.triedfavourable.com CNAME .
 trienestooth.com CNAME .
 *.trienestooth.com CNAME .
-trieutin.com CNAME .
-*.trieutin.com CNAME .
 trifaosmous.com CNAME .
 *.trifaosmous.com CNAME .
 triflinguncertainforensic.com CNAME .
@@ -100728,8 +100726,6 @@ uxiaaip.cn CNAME .
 *.uxiaaip.cn CNAME .
 uxjphkapbh.xyz CNAME .
 *.uxjphkapbh.xyz CNAME .
-uxsingh.com CNAME .
-*.uxsingh.com CNAME .
 uxsvipumvu.xyz CNAME .
 *.uxsvipumvu.xyz CNAME .
 uy.arabsex1.com CNAME .

@@ -1,7 +1,7 @@
-# Version: 202303191727
+# Version: 202303200009
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-19T17:27:57+0000
+# Last modified: 2023-03-20T00:09:25+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                                  
@@ -1375,7 +1375,6 @@ local-zone: "7fb60feaa4.com." always_null
 local-zone: "7fkm2r4pzi.com." always_null
 local-zone: "7fva8algp45k.com." always_null
 local-zone: "7g9m3r.com." always_null
-local-zone: "7gallery.com." always_null
 local-zone: "7gfs.com." always_null
 local-zone: "7hor9gul4s.com." always_null
 local-zone: "7hu8e1u001.com." always_null
@@ -7109,6 +7108,7 @@ local-zone: "applandforbuddies.top." always_null
 local-zone: "applandlight.com." always_null
 local-zone: "applaudliteratureconsultant.com." always_null
 local-zone: "applausesuch.com." always_null
+local-zone: "apple-service93.ru." always_null
 local-zone: "apple-val.looksmart.com." always_null
 local-zone: "apple.analnoe24.com." always_null
 local-zone: "apple.arabtoons.net." always_null
@@ -9704,6 +9704,7 @@ local-zone: "bfxytxdpnk.com." always_null
 local-zone: "bg4nxu2u5t.com." always_null
 local-zone: "bg6s0.com." always_null
 local-zone: "bgadx.com." always_null
+local-zone: "bgcold.com." always_null
 local-zone: "bgektxiadljflu.xyz." always_null
 local-zone: "bgfgwcvuaynm.xyz." always_null
 local-zone: "bgkgroups.com." always_null
@@ -12496,6 +12497,7 @@ local-zone: "chitika.net." always_null
 local-zone: "chiuhua.com.cn." always_null
 local-zone: "chl7rysobc3ol6xla.com." always_null
 local-zone: "chligh.com." always_null
+local-zone: "chlign.com." always_null
 local-zone: "chlinb.xyz." always_null
 local-zone: "chlod-qui.com." always_null
 local-zone: "chlodd.com." always_null
@@ -14719,7 +14721,6 @@ local-zone: "curseintegralproduced.com." always_null
 local-zone: "cursodeelectricidadindustrialbasica.com." always_null
 local-zone: "cursodeestadistica.com." always_null
 local-zone: "cursodemineriadedatos.com." always_null
-local-zone: "cursodeparapsicologia.org." always_null
 local-zone: "cursoexatas.com.br." always_null
 local-zone: "cursormedicabnormal.com." always_null
 local-zone: "curtaincows.com." always_null
@@ -25834,7 +25835,6 @@ local-zone: "indogulfinnovations.com." always_null
 local-zone: "indojobs.co." always_null
 local-zone: "indoleads.com." always_null
 local-zone: "indolentleader.com." always_null
-local-zone: "indonesias.me." always_null
 local-zone: "indooritalian.com." always_null
 local-zone: "indoorsbeliefgrew.com." always_null
 local-zone: "indrani-therapy.com." always_null
@@ -28593,6 +28593,7 @@ local-zone: "lambdaglobal.pk." always_null
 local-zone: "lambingsyddir.com." always_null
 local-zone: "lambu.info." always_null
 local-zone: "lame7bsqu8barters.com." always_null
+local-zone: "lameguard.ru." always_null
 local-zone: "lamerenfrancais.com." always_null
 local-zone: "lameterthenhep.com." always_null
 local-zone: "lamforsung.com." always_null
@@ -28788,7 +28789,6 @@ local-zone: "lc1982.lol." always_null
 local-zone: "lc442.com." always_null
 local-zone: "lcaccorhu.com." always_null
 local-zone: "lcentntel.com." always_null
-local-zone: "lceventos.net." always_null
 local-zone: "lcf.cmplay.cmcm.com." always_null
 local-zone: "lcfooiqhro.com." always_null
 local-zone: "lcloc.com." always_null
@@ -29203,6 +29203,7 @@ local-zone: "lin01.bid." always_null
 local-zone: "linaloabatches.com." always_null
 local-zone: "linario.de." always_null
 local-zone: "lindenprofessionalservices.com." always_null
+local-zone: "lindnerelektroanlagen.de." always_null
 local-zone: "line1-log.biligame.net." always_null
 local-zone: "linear-f.com." always_null
 local-zone: "linearcroisee.com." always_null
@@ -35127,6 +35128,7 @@ local-zone: "opmnstr.com." always_null
 local-zone: "opnbwg.com." always_null
 local-zone: "opnunskenya.org." always_null
 local-zone: "opolicycrea.xyz." always_null
+local-zone: "opolis.io." always_null
 local-zone: "oponixa.com." always_null
 local-zone: "oposfcjfav.com." always_null
 local-zone: "opossum.roleup.com." always_null
@@ -42068,7 +42070,6 @@ local-zone: "scholiadutied.com." always_null
 local-zone: "schoolamericanenglish.com." always_null
 local-zone: "schoolboyfingernail.com." always_null
 local-zone: "schoolboyslogan.com." always_null
-local-zone: "schoolofspanish.co.za." always_null
 local-zone: "schoonheidsspecialiste-ank.be." always_null
 local-zone: "schoutenkartoplan.com." always_null
 local-zone: "schultzseguros.com.br." always_null
@@ -45832,7 +45833,6 @@ local-zone: "sunflexpackagers.com." always_null
 local-zone: "sungarnonsane.com." always_null
 local-zone: "sungco.com.vn." always_null
 local-zone: "sunglassesmentallyproficient.com." always_null
-local-zone: "sunglassesninja.com." always_null
 local-zone: "sungong1987.com." always_null
 local-zone: "sunhomes.com.vn." always_null
 local-zone: "sunkella.com." always_null
@@ -48997,7 +48997,6 @@ local-zone: "tridipanel.com.mx." always_null
 local-zone: "triedecu.com." always_null
 local-zone: "triedfavourable.com." always_null
 local-zone: "trienestooth.com." always_null
-local-zone: "trieutin.com." always_null
 local-zone: "trifaosmous.com." always_null
 local-zone: "triflinguncertainforensic.com." always_null
 local-zone: "triflingzenithenergetic.com." always_null
@@ -50367,7 +50366,6 @@ local-zone: "ux.sapoaix.com." always_null
 local-zone: "uxdwhatijun.xyz." always_null
 local-zone: "uxiaaip.cn." always_null
 local-zone: "uxjphkapbh.xyz." always_null
-local-zone: "uxsingh.com." always_null
 local-zone: "uxsvipumvu.xyz." always_null
 local-zone: "uy.arabsex1.com." always_null
 local-zone: "uy.mawseednoblest.com." always_null
