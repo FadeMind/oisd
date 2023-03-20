@@ -1,7 +1,7 @@
-# Version: 202303201206
+# Version: 202303201613
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-20T12:06:18+0000
+# Last modified: 2023-03-20T16:13:43+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Domains (wildcards)                                                      
@@ -49689,7 +49689,6 @@
 *.ui-api.youbora.com
 *.ui.videojav.com
 *.uiafwlybxmjbqus.xyz
-*.uid.mavencoalition.io
 *.uid.mediacorp.sg
 *.uidsync.net
 *.uie.data.cbc.ca

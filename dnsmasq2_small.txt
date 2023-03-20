@@ -1,7 +1,7 @@
-# Version: 202303201206
+# Version: 202303201613
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-20T12:06:18+0000
+# Last modified: 2023-03-20T16:13:46+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                                               
@@ -49686,7 +49686,6 @@ local=/uhubseva.com/
 local=/ui-api.youbora.com/
 local=/ui.videojav.com/
 local=/uiafwlybxmjbqus.xyz/
-local=/uid.mavencoalition.io/
 local=/uid.mediacorp.sg/
 local=/uidsync.net/
 local=/uie.data.cbc.ca/
