@@ -1,7 +1,7 @@
-# Version: 202303210006
+# Version: 202303211209
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-21T00:06:29+0000
+# Last modified: 2023-03-21T12:09:31+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                                  
@@ -9623,6 +9623,7 @@ local-zone: "biharikrishna.com." always_null
 local-zone: "bihdrantech.com." always_null
 local-zone: "bijitsoa.com." always_null
 local-zone: "bijwawr.com." always_null
+local-zone: "bikannovel.com." always_null
 local-zone: "bikinigiare.com." always_null
 local-zone: "bikrurda.net." always_null
 local-zone: "bilalthirty.com." always_null
@@ -16743,7 +16744,6 @@ local-zone: "dmpcdn.el-mundo.net." always_null
 local-zone: "dmppvtltd.com." always_null
 local-zone: "dmpsj.cn." always_null
 local-zone: "dmpxs.com." always_null
-local-zone: "dmqi.ltd." always_null
 local-zone: "dmr.cnhoney.com." always_null
 local-zone: "dmrygghrhotdpl.xyz." always_null
 local-zone: "dms.fx678.com." always_null
@@ -37171,6 +37171,7 @@ local-zone: "psurdoak.com." always_null
 local-zone: "psurigrabi.com." always_null
 local-zone: "psvgnczo.com." always_null
 local-zone: "psvpromo.psvgamestudio.com." always_null
+local-zone: "psvvzb.xyz." always_null
 local-zone: "psxxbhheqxoy.com." always_null
 local-zone: "psychaltuxes.com." always_null
 local-zone: "psychalwamble.com." always_null
@@ -40541,7 +40542,6 @@ local-zone: "sanmarcosimperial.cl." always_null
 local-zone: "sanme2.taisantech.com." always_null
 local-zone: "sanmultimedia.co.id." always_null
 local-zone: "sannupsendysis.uno." always_null
-local-zone: "sanqian.pro." always_null
 local-zone: "sansaramedulla.website." always_null
 local-zone: "sanskruti-bhavdip.com." always_null
 local-zone: "santaana.edu.pe." always_null
@@ -50053,6 +50053,7 @@ local-zone: "weakradiator.com." always_null
 local-zone: "wealthyprovisionsclay.com." always_null
 local-zone: "wealthywoman.co.uk." always_null
 local-zone: "weaponsort.club." always_null
+local-zone: "weaquc.xyz." always_null
 local-zone: "wearbasin.com." always_null
 local-zone: "wearegrounding.com." always_null
 local-zone: "wearemiq.com." always_null
@@ -51204,6 +51205,7 @@ local-zone: "xads.joboko.com." always_null
 local-zone: "xads.one." always_null
 local-zone: "xadsmart.com." always_null
 local-zone: "xadstruct0rx.com." always_null
+local-zone: "xageias.cn." always_null
 local-zone: "xahhhptqa.top." always_null
 local-zone: "xalienstreamx.com." always_null
 local-zone: "xameleonads.com." always_null

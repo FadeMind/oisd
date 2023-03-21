@@ -1,7 +1,7 @@
-# Version: 202303210006
+# Version: 202303211209
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-21T00:06:28+0000
+# Last modified: 2023-03-21T12:09:30+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                                                   
@@ -9621,6 +9621,7 @@ server=/biharikrishna.com/
 server=/bihdrantech.com/
 server=/bijitsoa.com/
 server=/bijwawr.com/
+server=/bikannovel.com/
 server=/bikinigiare.com/
 server=/bikrurda.net/
 server=/bilalthirty.com/
@@ -16741,7 +16742,6 @@ server=/dmpcdn.el-mundo.net/
 server=/dmppvtltd.com/
 server=/dmpsj.cn/
 server=/dmpxs.com/
-server=/dmqi.ltd/
 server=/dmr.cnhoney.com/
 server=/dmrygghrhotdpl.xyz/
 server=/dms.fx678.com/
@@ -37169,6 +37169,7 @@ server=/psurdoak.com/
 server=/psurigrabi.com/
 server=/psvgnczo.com/
 server=/psvpromo.psvgamestudio.com/
+server=/psvvzb.xyz/
 server=/psxxbhheqxoy.com/
 server=/psychaltuxes.com/
 server=/psychalwamble.com/
@@ -40539,7 +40540,6 @@ server=/sanmarcosimperial.cl/
 server=/sanme2.taisantech.com/
 server=/sanmultimedia.co.id/
 server=/sannupsendysis.uno/
-server=/sanqian.pro/
 server=/sansaramedulla.website/
 server=/sanskruti-bhavdip.com/
 server=/santaana.edu.pe/
@@ -50051,6 +50051,7 @@ server=/weakradiator.com/
 server=/wealthyprovisionsclay.com/
 server=/wealthywoman.co.uk/
 server=/weaponsort.club/
+server=/weaquc.xyz/
 server=/wearbasin.com/
 server=/wearegrounding.com/
 server=/wearemiq.com/
@@ -51202,6 +51203,7 @@ server=/xads.joboko.com/
 server=/xads.one/
 server=/xadsmart.com/
 server=/xadstruct0rx.com/
+server=/xageias.cn/
 server=/xahhhptqa.top/
 server=/xalienstreamx.com/
 server=/xameleonads.com/

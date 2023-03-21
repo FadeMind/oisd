@@ -1,7 +1,7 @@
-# Version: 202303210006
+# Version: 202303211209
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-21T00:06:28+0000
+# Last modified: 2023-03-21T12:09:30+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                                               
@@ -9621,6 +9621,7 @@ local=/biharikrishna.com/
 local=/bihdrantech.com/
 local=/bijitsoa.com/
 local=/bijwawr.com/
+local=/bikannovel.com/
 local=/bikinigiare.com/
 local=/bikrurda.net/
 local=/bilalthirty.com/
@@ -16741,7 +16742,6 @@ local=/dmpcdn.el-mundo.net/
 local=/dmppvtltd.com/
 local=/dmpsj.cn/
 local=/dmpxs.com/
-local=/dmqi.ltd/
 local=/dmr.cnhoney.com/
 local=/dmrygghrhotdpl.xyz/
 local=/dms.fx678.com/
@@ -37169,6 +37169,7 @@ local=/psurdoak.com/
 local=/psurigrabi.com/
 local=/psvgnczo.com/
 local=/psvpromo.psvgamestudio.com/
+local=/psvvzb.xyz/
 local=/psxxbhheqxoy.com/
 local=/psychaltuxes.com/
 local=/psychalwamble.com/
@@ -40539,7 +40540,6 @@ local=/sanmarcosimperial.cl/
 local=/sanme2.taisantech.com/
 local=/sanmultimedia.co.id/
 local=/sannupsendysis.uno/
-local=/sanqian.pro/
 local=/sansaramedulla.website/
 local=/sanskruti-bhavdip.com/
 local=/santaana.edu.pe/
@@ -50051,6 +50051,7 @@ local=/weakradiator.com/
 local=/wealthyprovisionsclay.com/
 local=/wealthywoman.co.uk/
 local=/weaponsort.club/
+local=/weaquc.xyz/
 local=/wearbasin.com/
 local=/wearegrounding.com/
 local=/wearemiq.com/
@@ -51202,6 +51203,7 @@ local=/xads.joboko.com/
 local=/xads.one/
 local=/xadsmart.com/
 local=/xadstruct0rx.com/
+local=/xageias.cn/
 local=/xahhhptqa.top/
 local=/xalienstreamx.com/
 local=/xameleonads.com/

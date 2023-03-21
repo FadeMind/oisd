@@ -1,13 +1,13 @@
-; Version: 202303210006
+; Version: 202303211209
 ; Description: Block. Don't break.
 ; Title: oisd small
-; Last modified: 2023-03-21T00:06:29+0000
+; Last modified: 2023-03-21T12:09:31+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                                     
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679356802 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679400001 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -19240,6 +19240,8 @@ bijitsoa.com CNAME .
 *.bijitsoa.com CNAME .
 bijwawr.com CNAME .
 *.bijwawr.com CNAME .
+bikannovel.com CNAME .
+*.bikannovel.com CNAME .
 bikinigiare.com CNAME .
 *.bikinigiare.com CNAME .
 bikrurda.net CNAME .
@@ -33480,8 +33482,6 @@ dmpsj.cn CNAME .
 *.dmpsj.cn CNAME .
 dmpxs.com CNAME .
 *.dmpxs.com CNAME .
-dmqi.ltd CNAME .
-*.dmqi.ltd CNAME .
 dmr.cnhoney.com CNAME .
 *.dmr.cnhoney.com CNAME .
 dmrygghrhotdpl.xyz CNAME .
@@ -74336,6 +74336,8 @@ psvgnczo.com CNAME .
 *.psvgnczo.com CNAME .
 psvpromo.psvgamestudio.com CNAME .
 *.psvpromo.psvgamestudio.com CNAME .
+psvvzb.xyz CNAME .
+*.psvvzb.xyz CNAME .
 psxxbhheqxoy.com CNAME .
 *.psxxbhheqxoy.com CNAME .
 psychaltuxes.com CNAME .
@@ -81076,8 +81078,6 @@ sanmultimedia.co.id CNAME .
 *.sanmultimedia.co.id CNAME .
 sannupsendysis.uno CNAME .
 *.sannupsendysis.uno CNAME .
-sanqian.pro CNAME .
-*.sanqian.pro CNAME .
 sansaramedulla.website CNAME .
 *.sansaramedulla.website CNAME .
 sanskruti-bhavdip.com CNAME .
@@ -100100,6 +100100,8 @@ wealthywoman.co.uk CNAME .
 *.wealthywoman.co.uk CNAME .
 weaponsort.club CNAME .
 *.weaponsort.club CNAME .
+weaquc.xyz CNAME .
+*.weaquc.xyz CNAME .
 wearbasin.com CNAME .
 *.wearbasin.com CNAME .
 wearegrounding.com CNAME .
@@ -102402,6 +102404,8 @@ xadsmart.com CNAME .
 *.xadsmart.com CNAME .
 xadstruct0rx.com CNAME .
 *.xadstruct0rx.com CNAME .
+xageias.cn CNAME .
+*.xageias.cn CNAME .
 xahhhptqa.top CNAME .
 *.xahhhptqa.top CNAME .
 xalienstreamx.com CNAME .
