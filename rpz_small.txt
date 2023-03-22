@@ -1,13 +1,13 @@
-; Version: 202303221206
+; Version: 202303221718
 ; Description: Block. Don't break.
 ; Title: oisd small
-; Last modified: 2023-03-22T12:06:24+0000
+; Last modified: 2023-03-22T17:18:27+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                                     
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679486402 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679504971 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -5306,8 +5306,6 @@ ad4.udn.com CNAME .
 *.ad4.udn.com CNAME .
 ad44.cc CNAME .
 *.ad44.cc CNAME .
-ad48.atlas.cz CNAME .
-*.ad48.atlas.cz CNAME .
 ad4game.com CNAME .
 *.ad4game.com CNAME .
 ad4m.at CNAME .
@@ -53854,8 +53852,6 @@ later-analytics-reports.s3-accelerate.amazonaws.com CNAME .
 *.later-analytics-reports.s3-accelerate.amazonaws.com CNAME .
 lateralphonesecurity.xyz CNAME .
 *.lateralphonesecurity.xyz CNAME .
-latesolas.com CNAME .
-*.latesolas.com CNAME .
 latest.android-central.news CNAME .
 *.latest.android-central.news CNAME .
 latestgrace.com CNAME .
@@ -57666,8 +57662,6 @@ marathongenerositypremiere.com CNAME .
 *.marathongenerositypremiere.com CNAME .
 marazma.com CNAME .
 *.marazma.com CNAME .
-marbct.xyz CNAME .
-*.marbct.xyz CNAME .
 marblecaution.com CNAME .
 *.marblecaution.com CNAME .
 marboconinc.com CNAME .
@@ -85174,8 +85168,6 @@ streakattempt.com CNAME .
 *.streakattempt.com CNAME .
 stream-all.com CNAME .
 *.stream-all.com CNAME .
-stream4fun.com CNAME .
-*.stream4fun.com CNAME .
 streamall-search.com CNAME .
 *.streamall-search.com CNAME .
 streambeam.io CNAME .

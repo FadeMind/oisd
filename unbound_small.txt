@@ -1,7 +1,7 @@
-# Version: 202303221206
+# Version: 202303221718
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-22T12:06:24+0000
+# Last modified: 2023-03-22T17:18:27+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                                  
@@ -2656,7 +2656,6 @@ local-zone: "ad3.udn.com." always_null
 local-zone: "ad3.xrea.com." always_null
 local-zone: "ad4.udn.com." always_null
 local-zone: "ad44.cc." always_null
-local-zone: "ad48.atlas.cz." always_null
 local-zone: "ad4game.com." always_null
 local-zone: "ad4m.at." always_null
 local-zone: "ad4mat.com." always_null
@@ -26930,7 +26929,6 @@ local-zone: "latam.xw1fx50x35.com." always_null
 local-zone: "latentcreeper.com." always_null
 local-zone: "later-analytics-reports.s3-accelerate.amazonaws.com." always_null
 local-zone: "lateralphonesecurity.xyz." always_null
-local-zone: "latesolas.com." always_null
 local-zone: "latest.android-central.news." always_null
 local-zone: "latestgrace.com." always_null
 local-zone: "latestsocial.com." always_null
@@ -28836,7 +28834,6 @@ local-zone: "marapcana.online." always_null
 local-zone: "marathavadhuvarakg.com." always_null
 local-zone: "marathongenerositypremiere.com." always_null
 local-zone: "marazma.com." always_null
-local-zone: "marbct.xyz." always_null
 local-zone: "marblecaution.com." always_null
 local-zone: "marboconinc.com." always_null
 local-zone: "marc.pe." always_null
@@ -42590,7 +42587,6 @@ local-zone: "strategicperplexanswered.com." always_null
 local-zone: "straticjustice.com." always_null
 local-zone: "streakattempt.com." always_null
 local-zone: "stream-all.com." always_null
-local-zone: "stream4fun.com." always_null
 local-zone: "streamall-search.com." always_null
 local-zone: "streambeam.io." always_null
 local-zone: "streaming-illimite2.com." always_null

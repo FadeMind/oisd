@@ -1,7 +1,7 @@
-# Version: 202303221206
+# Version: 202303221718
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-22T12:06:24+0000
+# Last modified: 2023-03-22T17:18:26+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq ver 2.86 and above                                               
@@ -2654,7 +2654,6 @@ local=/ad3.udn.com/
 local=/ad3.xrea.com/
 local=/ad4.udn.com/
 local=/ad44.cc/
-local=/ad48.atlas.cz/
 local=/ad4game.com/
 local=/ad4m.at/
 local=/ad4mat.com/
@@ -26928,7 +26927,6 @@ local=/latam.xw1fx50x35.com/
 local=/latentcreeper.com/
 local=/later-analytics-reports.s3-accelerate.amazonaws.com/
 local=/lateralphonesecurity.xyz/
-local=/latesolas.com/
 local=/latest.android-central.news/
 local=/latestgrace.com/
 local=/latestsocial.com/
@@ -28834,7 +28832,6 @@ local=/marapcana.online/
 local=/marathavadhuvarakg.com/
 local=/marathongenerositypremiere.com/
 local=/marazma.com/
-local=/marbct.xyz/
 local=/marblecaution.com/
 local=/marboconinc.com/
 local=/marc.pe/
@@ -42588,7 +42585,6 @@ local=/strategicperplexanswered.com/
 local=/straticjustice.com/
 local=/streakattempt.com/
 local=/stream-all.com/
-local=/stream4fun.com/
 local=/streamall-search.com/
 local=/streambeam.io/
 local=/streaming-illimite2.com/
