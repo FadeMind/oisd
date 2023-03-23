@@ -1,13 +1,13 @@
-; Version: 202303231251
+; Version: 202303231551
 ; Description: Block. Don't break.
 ; Title: oisd small
-; Last modified: 2023-03-23T12:51:32+0000
+; Last modified: 2023-03-23T15:51:48+0000
 ; Expires: 1 days (update frequency)
 ; Homepage: https://oisd.nl
 ; Syntax: Response Policy Zone                                                     
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679572801 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1679586708 86400 3600 604800 30
  NS localhost.
 
 0-000.store CNAME .
@@ -61414,8 +61414,6 @@ newsbsc.com CNAME .
 *.newsbsc.com CNAME .
 newscaffe.net CNAME .
 *.newscaffe.net CNAME .
-newscgp.com CNAME .
-*.newscgp.com CNAME .
 newscode.me CNAME .
 *.newscode.me CNAME .
 newsfeed.support CNAME .

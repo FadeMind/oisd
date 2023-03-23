@@ -1,7 +1,7 @@
-# Version: 202303231251
+# Version: 202303231551
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-23T12:51:33+0000
+# Last modified: 2023-03-23T15:51:49+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: Unbound                                                                  
@@ -30710,7 +30710,6 @@ local-zone: "newsatads.com." always_null
 local-zone: "newsbeunity.com." always_null
 local-zone: "newsbsc.com." always_null
 local-zone: "newscaffe.net." always_null
-local-zone: "newscgp.com." always_null
 local-zone: "newscode.me." always_null
 local-zone: "newsfeed.support." always_null
 local-zone: "newsfeedscroller.com." always_null

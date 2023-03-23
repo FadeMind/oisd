@@ -1,7 +1,7 @@
-# Version: 202303231251
+# Version: 202303231551
 # Description: Block. Don't break.
 # Title: oisd small
-# Last modified: 2023-03-23T12:51:32+0000
+# Last modified: 2023-03-23T15:51:46+0000
 # Expires: 1 days (update frequency)
 # Homepage: https://oisd.nl
 # Syntax: DNSMasq below ver 2.86                                                   
@@ -30708,7 +30708,6 @@ server=/newsatads.com/
 server=/newsbeunity.com/
 server=/newsbsc.com/
 server=/newscaffe.net/
-server=/newscgp.com/
 server=/newscode.me/
 server=/newsfeed.support/
 server=/newsfeedscroller.com/
